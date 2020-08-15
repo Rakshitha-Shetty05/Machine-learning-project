@@ -1,0 +1,10 @@
+MACHINE LEARNING PROJECT USING PYTHON
+
+TOPIC: MUSIC RECOMMENDATION ENGINE  USING MACHINE LEARNING
+
+1)Pull data from data source
+Install pandas library
+Install numpy library
+Install cosinesimilarity library
+Install CountVectorizer library
+
